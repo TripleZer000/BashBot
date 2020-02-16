@@ -9,7 +9,7 @@ simply edit bot.properties
 1. Open on the file directory in which u put the files.
 2. chmod +x bot.sh
 3. ./bot.sh
-# making your own commands
+# Making your own commands
 The basic lines for the bot to read a msg and respond to it is below.
 ```
 	*"example"*)
