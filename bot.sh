@@ -26,7 +26,7 @@ do
      echo "JOIN $channel" >> $input
     ;;
 ################### CONFIGURE THIS
-	*"example")
+	*"example"*)
 	 echo "PRIVMSG $channel :this is the output" >> $input
 	;;
 
